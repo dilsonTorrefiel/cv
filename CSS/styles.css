@@ -1,0 +1,62 @@
+body{
+    background-color: #f4f6ff;
+  }
+  /*
+  hr{
+    border-style:none;
+    border-bottom-style: dotted;
+    border-color: lightgrey;
+    width: 5%;
+    border-width: 5px;
+  }
+  */
+  /* ----------HTML tag selector----------*/
+  /*h1{
+    font-style:  normal;
+    font-weight: bold;
+    color: #66BFBF;
+  }
+  h3{
+    font-style:  normal;
+    font-weight: bold;
+    color: #66BFBF;
+  }
+  */
+  td{
+    font-style: normal;
+    font-family: monospace;
+    text-indent: 20px;
+  }
+  /* ----------class selector----------*/
+  .heading{
+    color: #66BFBF;
+    font-style:  normal;
+    font-family: monospace;
+    font-weight: bold;
+    text-indent: 20px;
+  }
+  .headdingLine{
+    border-style:none;
+    border-bottom-style: dotted;
+    border-color: grey;
+    border-width: 2px;
+    width: 100%;
+  }
+  .name{
+    font-style:  normal;
+    font-weight: bold;
+    color: #66BFBF;
+  }
+  /* ----------ID selector----------*/
+  /*
+  #name{
+    font-style:  normal;
+    font-weight: bold;
+    color: #66BFBF;
+  }
+  #heading{
+    font-style:  normal;
+    font-weight: bold;
+    color: #66BFBF;
+  }
+  */
