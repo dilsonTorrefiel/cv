@@ -22,6 +22,10 @@ body{
     color: #66BFBF;
   }
   */
+  input{
+    font-style: normal;
+    font-family: monospace;
+  }
   td{
     font-style: normal;
     font-family: monospace;
